@@ -1,4 +1,4 @@
-:root { --main-trans: 0.4s; --main-color: #51b549;}
+:root { --main-trans: 0.4s; --main-color: #FAB2AC;}
 
 /* back to id attribute slowly*/
 html { scroll-behavior: smooth;}
@@ -841,13 +841,13 @@ button.swiper-pagination-bullet {
 
 /* start components section */
 .content-container .bg-image{background-color: white;}
-.content-container .bg-image .components {width: 100%; min-height: 75vh; background-image: url(../img/3.jpg); background-position:center; background-size:cover; background-attachment: fixed, scroll;}
+.content-container .bg-image .components {width: 100%; min-height: 75vh; background-image: url(../img/lotus.jpg); background-position:center; background-size:cover; background-attachment: fixed, scroll;}
 .content-container .bg-image .components .div-block-218 {display: block; max-width: 100%; margin: auto; justify-content: center; }
 .content-container .bg-image .components .div-block-218 .div-block-217 { display: flex; height: 300px; max-width: 432px; margin: auto; flex-direction: row; align-items: center; text-align: center;}
 /* end components section */
 
 /* start image section */
-.content-container .image-box {  display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center;background-color: white; padding: 20px 0px; }
+.content-container .image-box {  display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center;background-color: white; padding: 20px 0px; padding-bottom: 0px;}
 .content-container .image-box .image-item  { flex-basis: 30%; transition: all 0.3s; padding: 10px; text-align: center;}
 .content-container .image-box .image-item:hover {box-shadow: 0px 0px 5px #948d8d; overflow: hidden; }
 .content-container .image-box .image-item img{transition: all 0.3s; margin: auto;}
@@ -857,13 +857,13 @@ button.swiper-pagination-bullet {
 /* end image section */
 
 /* start footer section */
-footer{ padding: 20px 10px;}
+footer{ padding: 20px 10px; }
 footer.container .row {display: flex; justify-content: space-evenly; margin: auto; flex-wrap: wrap; }
 footer.container .row .col-12 { flex-basis: 30%; }
 footer.container .row  h5{ padding: 10px 0px;}
 footer.container .row .col-12 .row .p-2 {margin: 0px auto 9px; flex-basis: 40%; }
 footer.container .py-4 { display: flex; padding: 0px 20px; justify-content: space-between;}
-footer.container .py-4 .d-flex { width: 20%;}
+footer.container .py-4 .d-flex { width: 20%; margin-right: 8%; margin-top: 1%;}
 footer.container  .card-block {
   padding: 10px 0px 20px;
 }
