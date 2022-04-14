@@ -841,7 +841,7 @@ button.swiper-pagination-bullet {
 
 /* start components section */
 .content-container .bg-image{background-color: white;}
-.content-container .bg-image .components {width: 100%; min-height: 75vh; background-image: url(../img/3.jpg); background-position:center; background-size:cover; background-attachment: fixed, scroll;}
+.content-container .bg-image .components {width: 100%; min-height: 75vh; background-image: url(../img/lotus.jpg); background-position:center; background-size:cover; background-attachment: fixed, scroll;}
 .content-container .bg-image .components .div-block-218 {display: block; max-width: 100%; margin: auto; justify-content: center; }
 .content-container .bg-image .components .div-block-218 .div-block-217 { display: flex; height: 300px; max-width: 432px; margin: auto; flex-direction: row; align-items: center; text-align: center;}
 /* end components section */
